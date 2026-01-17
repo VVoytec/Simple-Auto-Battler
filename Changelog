@@ -1,0 +1,7 @@
+v0.1.1:
+- Fixed not showing curret bonus in Str 5 upgrade before purchase
+- Fixed wrong value of HP in Iron armor
+- Fixed double fade out of text from damage or gold
+
+v0.1:
+- first version
