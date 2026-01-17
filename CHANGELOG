@@ -1,5 +1,5 @@
 v0.1.2
-- Stun can be apply only when not stunned to prevent 100% stun uptime
+- Stun can be apply only when enemy is not stunned to prevent 100% stun uptime
 
 v0.1.1:
 - Fixed not showing curret bonus in Str 5 upgrade before purchase
