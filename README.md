@@ -1,8 +1,9 @@
+# Link to the game
 https://vvoytec.github.io/Simple-Auto-Battler/
 
-<details>
-<summary>Changelog</summary>
-  
+
+# Changelog
+
 ### v 0.2.2
 - Fixed a bug where you couldn't change weapon or armor when dead
 
@@ -29,5 +30,3 @@ https://vvoytec.github.io/Simple-Auto-Battler/
 
 ### v0.1:
 - first version
-
-</details>
