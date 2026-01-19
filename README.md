@@ -2,6 +2,7 @@ https://vvoytec.github.io/Simple-Auto-Battler/
 
 <details>
 <summary>Changelog</summary>
+  
 v 0.2.2
 - Fixed a bug where you couldn't change weapon or armor when dead
 
@@ -28,4 +29,5 @@ v0.1.1:
 
 v0.1:
 - first version
+- 
 </details>
