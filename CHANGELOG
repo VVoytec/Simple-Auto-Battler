@@ -1,3 +1,6 @@
+v 0.2.2
+- Fixed a bug where you couldn't change weapon or armor when dead
+
 v0.2.1
 - Added option to refund upgrades
 - Fixed a bug where switching areas appear duplicate player
