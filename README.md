@@ -1,17 +1,31 @@
 https://vvoytec.github.io/Simple-Auto-Battler/
 
 <details>
-<summary>Kliknij aby zobaczyć spoiler</summary>
+<summary>Changelog</summary>
+v 0.2.2
+- Fixed a bug where you couldn't change weapon or armor when dead
 
-Tutaj ukryta treść spoiler.
+v0.2.1
+- Added option to refund upgrades
+- Fixed a bug where switching areas appear duplicate player
 
-Może zawierać:
-- Listy
-- **Formatowanie**
-- `Kod inline`
+v0.2
+- Added posibility to clear areas
+- Now harder areas are locked and they are unlockable after clear previous
+- Added 5 new enemies (12 total)
+- Added 3 new areas (6 total)
+- Now displays area name you are and thier progress above enemy name
+- Enemies cannot be stunned again for 1 second after being stunned
+- Fixed bug with upgrade cost after restart game
 
-```javascript
-// Bloki kodu
-const secret = "to jest spoiler";
-```
+v0.1.2
+- Stun can be apply only when enemy is not stunned to prevent 100% stun uptime
+
+v0.1.1:
+- Fixed not showing currently bonus in Str 5 upgrade before purchase
+- Fixed wrong value of HP in Iron armor
+- Fixed double fade out of text from damage or gold
+
+v0.1:
+- first version
 </details>
