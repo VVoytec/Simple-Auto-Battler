@@ -19,10 +19,10 @@ https://vvoytec.github.io/Simple-Auto-Battler/
 - Enemies cannot be stunned again for 1 second after being stunned
 - Fixed bug with upgrade cost after restart game
 
-#### v0.1.2
+### v0.1.2
 - Stun can be apply only when enemy is not stunned to prevent 100% stun uptime
 
-#### v0.1.1:
+### v0.1.1:
 - Fixed not showing currently bonus in Str 5 upgrade before purchase
 - Fixed wrong value of HP in Iron armor
 - Fixed double fade out of text from damage or gold
