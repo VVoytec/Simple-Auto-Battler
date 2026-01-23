@@ -1,5 +1,5 @@
 # Link to the game
-[https://vvoytec.github.io/Simple-Auto-Battler/](https://vvoytec.github.io/Remnant-Ash-Idle/)
+https://vvoytec.github.io/Remnant-Ash-Idle/
 
 
 # Changelog
