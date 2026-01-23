@@ -4,6 +4,18 @@ https://vvoytec.github.io/Simple-Auto-Battler/
 
 # Changelog
 
+### v 0.3
+- Now the equipment are locked expect the first one
+- Enemies now drop and unlock the equipment
+- Added button with link to game discord server
+- Changed position of areas
+- Added 2 new weapons
+- Added 5 new armors
+- Upgrade Str 3 have increased lifesteal 10% -> 15%
+- Decreased HP from Leather Armor 35 -> 30
+- Increased HP from Iron Armor 50 -> 55
+- Nerfed Octopus enemy
+
 ### v 0.2.2
 - Fixed a bug where you couldn't change weapon or armor when dead
 
