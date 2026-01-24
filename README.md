@@ -4,7 +4,7 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 
 # Changelog
 
-### v 04
+### v0.4
 - Added notification when you drop new item
 - Added Settings with reset button and game changelog
 - Added popup to bottom buttons
@@ -14,12 +14,12 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 - Changed amount of dropped gold
 - Nerfed Vampire upgrade 250% -> 100%
 
-### v 0.3.1
+### v0.3.1
 - Added names for upgrades
 - Difficulty now scale slower
 - Fixed font on browser (i think)
 
-### v 0.3
+### v0.3
 - Now the equipment are locked expect the first one
 - Enemies now drop and unlock the equipment
 - Added button with link to game discord server
@@ -31,7 +31,7 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 - Increased HP from Iron Armor 50 -> 55
 - Nerfed Octopus enemy
 
-### v 0.2.2
+### v0.2.2
 - Fixed a bug where you couldn't change weapon or armor when dead
 
 ### v0.2.1
