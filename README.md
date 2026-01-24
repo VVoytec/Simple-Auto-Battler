@@ -4,6 +4,11 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 
 # Changelog
 
+### v 0.3.1
+- Added names for upgrades
+- Difficulty now scale slower
+- Fixed font on browser (i think)
+
 ### v 0.3
 - Now the equipment are locked expect the first one
 - Enemies now drop and unlock the equipment
