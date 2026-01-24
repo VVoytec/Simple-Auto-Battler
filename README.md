@@ -4,6 +4,16 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 
 # Changelog
 
+### v 04
+- Added notification when you drop new item
+- Added Settings with reset button and game changelog
+- Added popup to bottom buttons
+- Added 5 new areas
+- Added new armor and new weapon
+- Reverted to previous difficulty and changes some areas difficulty and because of this buffed armors base stats
+- Changed amount of dropped gold
+- Nerfed Vampire upgrade 250% -> 100%
+
 ### v 0.3.1
 - Added names for upgrades
 - Difficulty now scale slower
