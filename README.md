@@ -3,6 +3,27 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 
 
 # Changelog
+### v0.5
+- Added tooltip which monster drop that weapon or armor
+- Added button to switch auto attack
+- Added 2 new weapon
+- Added new armor
+- Added 3 new intelligence upgrades
+- Added 5 new areas with 5 new enemies
+- Updated to better font in Damage, gold, etc. text
+- Reduced require kills to clear area (50 -> 20)
+- Hood armor now drop from new enemy and BEAR BOSS had no item drop (for now)
+- Nerfed OCTOPUS BOSS Attack Speed (2.5/s -> 2/s), Crit Damage (400% -> 300%)
+- Buffed Hood armor (70 hp -> 110 hp; 20% -> 25%)
+- Buffed Berserker Vest (35 hp -> 55 hp)
+- Buffed base Regen HP (3% -> 4$)
+- Buffed Slow Recovery upgrade (2% -> 5%)
+- Buffed Base Poison Duration (1s -> 3s)
+- Buffed Rising Momentum (3% -> 4%)
+- Nerfed Leech upgrade (15% -> 10%)
+- Fixed a description in Fast Flow upgrades (Upgrade work fine)
+- Fixed a single clicks on a mousepad
+  (i think, i find possibly problem but i have now way to check this)
 
 ### v0.4
 - Added notification when you drop new item
