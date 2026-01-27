@@ -16,7 +16,7 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 - Nerfed OCTOPUS BOSS Attack Speed (2.5/s -> 2/s), Crit Damage (400% -> 300%)
 - Buffed Hood armor (70 hp -> 110 hp; 20% -> 25%)
 - Buffed Berserker Vest (35 hp -> 55 hp)
-- Buffed base Regen HP (3% -> 4$)
+- Buffed base Regen HP (3% -> 4%)
 - Buffed Slow Recovery upgrade (2% -> 5%)
 - Buffed Base Poison Duration (1s -> 3s)
 - Buffed Rising Momentum (3% -> 4%)
