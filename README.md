@@ -3,7 +3,7 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 
 
 # Changelog
-### v0.5
+### v0.5 - 27.01.2026
 - Added tooltip which monster drop that weapon or armor
 - Added button to switch auto attack
 - Added 2 new weapon
@@ -25,7 +25,7 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 - Fixed a single clicks on a mousepad
   (i think, i find possibly problem but i have now way to check this)
 
-### v0.4
+### v0.4 - 24.01.2026
 - Added notification when you drop new item
 - Added Settings with reset button and game changelog
 - Added popup to bottom buttons
@@ -35,12 +35,12 @@ https://vvoytec.github.io/Remnant-Ash-Idle/
 - Changed amount of dropped gold
 - Nerfed Vampire upgrade 250% -> 100%
 
-### v0.3.1
+### v0.3.1 - 24.01.2026
 - Added names for upgrades
 - Difficulty now scale slower
 - Fixed font on browser (i think)
 
-### v0.3
+### v0.3 - 24.01.2026
 - Now the equipment are locked expect the first one
 - Enemies now drop and unlock the equipment
 - Added button with link to game discord server
